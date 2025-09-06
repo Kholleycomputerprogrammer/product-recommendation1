@@ -1,0 +1,1 @@
+My system used dictionaries to compare each tag with a product. If I use the tag Kitchen it searches in the dictionaries what items have the tag Kitchen with it and brings up the items. If there is more than one tag it uses those tags to bring up the items. If there is a 1000 products then I would need to use a better method but dictionaries works for now with the items.
